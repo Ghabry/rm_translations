@@ -1,2 +1,1 @@
-# rm_translations
-Translations of RPG Maker 2000/2003 games for EasyRPG Player
+Download the translation and put it in the "languages" folder of the game.

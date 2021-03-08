@@ -1,0 +1,697 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"Language-Team: YOUR NAME <mail@your.address>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-CreatedBy: LcfTrans"
+
+#. ID 1
+msgctxt "actors.name"
+msgid "窓付き"
+msgstr "Madotsuki"
+
+#. ID 1
+#. ID 2
+msgctxt "items.name"
+msgid "かえる"
+msgstr "Frog"
+
+#. ID 1
+#. ID 2
+msgctxt "items.description"
+msgid "「かえる」にへんしんする。"
+msgstr "Become a frog"
+
+#. ID 3
+#. ID 4
+msgctxt "items.name"
+msgid "かさ"
+msgstr "Umbrella"
+
+#. ID 3
+#. ID 4
+msgctxt "items.description"
+msgid "「かさ」をさす。"
+msgstr "Open an umbrella"
+
+#. ID 5
+#. ID 6
+msgctxt "items.name"
+msgid "ぼうしとマフラー"
+msgstr "Hat and scarf"
+
+#. ID 5
+#. ID 6
+msgctxt "items.description"
+msgid "「ぼうしとマフラー」をつける。"
+msgstr "Wear a hat and scarf"
+
+#. ID 7
+#. ID 8
+msgctxt "items.name"
+msgid "ゆきおんな"
+msgstr "Yuki-onna"
+
+#. ID 7
+#. ID 8
+msgctxt "items.description"
+msgid "「ゆきおんな」になる。"
+msgstr "Become the snow woman"
+
+#. ID 9
+#. ID 10
+msgctxt "items.name"
+msgid "ほうちょう"
+msgstr "Knife"
+
+#. ID 9
+#. ID 10
+msgctxt "items.description"
+msgid "「ほうちょう」をもつ。"
+msgstr "Wield a kitchen knife"
+
+#. ID 11
+#. ID 12
+msgctxt "items.name"
+msgid "めだまうで"
+msgstr "Medamaude"
+
+#. ID 11
+#. ID 12
+msgctxt "items.description"
+msgid "「めだまうで」になる。"
+msgstr "Become Medamaude"
+
+#. ID 13
+#. ID 14
+msgctxt "items.name"
+msgid "ふとる"
+msgstr "Fat"
+
+#. ID 13
+#. ID 14
+msgctxt "items.description"
+msgid "ふとる。"
+msgstr "Get fat"
+
+#. ID 15
+#. ID 16
+msgctxt "items.name"
+msgid "こびと"
+msgstr "Midget"
+
+#. ID 15
+#. ID 16
+msgctxt "items.description"
+msgid "ちいさくなる。"
+msgstr "Become small"
+
+#. ID 17
+#. ID 18
+msgctxt "items.name"
+msgid "ふえ"
+msgstr "Flute"
+
+#. ID 17
+#. ID 18
+msgctxt "items.description"
+msgid "「ふえ」をもつ。"
+msgstr "Play a flute"
+
+#. ID 19
+#. ID 20
+msgctxt "items.name"
+msgid "ネオン"
+msgstr "Neon"
+
+#. ID 19
+#. ID 20
+msgctxt "items.description"
+msgid "「ネオン」にひかる。"
+msgstr "Become a neon light"
+
+#. ID 21
+#. ID 22
+msgctxt "items.name"
+msgid "のっぺらぼう"
+msgstr "Nopperabou"
+
+#. ID 21
+#. ID 22
+msgctxt "items.description"
+msgid "「のっぺらぼう」になる。"
+msgstr "Become the faceless ghost"
+
+#. ID 23
+#. ID 24
+msgctxt "items.name"
+msgid "なまくび"
+msgstr "Severed head"
+
+#. ID 23
+#. ID 24
+msgctxt "items.description"
+msgid "「なまくび」になる。"
+msgstr "Become a severed head"
+
+#. ID 25
+#. ID 26
+msgctxt "items.name"
+msgid "タオル"
+msgstr "Towel"
+
+#. ID 25
+#. ID 26
+msgctxt "items.description"
+msgid "「タオル」をかぶる。"
+msgstr "Wrap up in a towel"
+
+#. ID 27
+#. ID 28
+msgctxt "items.name"
+msgid "ねこ"
+msgstr "Cat"
+
+#. ID 27
+#. ID 28
+msgctxt "items.description"
+msgid "「ねこ」のみみとしっぽがつく。"
+msgstr "Grow ears and a tail"
+
+#. ID 29
+#. ID 30
+msgctxt "items.name"
+msgid "でんとう"
+msgstr "Lamp"
+
+#. ID 29
+#. ID 30
+msgctxt "items.description"
+msgid "「でんとう」になる。"
+msgstr "Become a lamp"
+
+#. ID 31
+#. ID 32
+msgctxt "items.name"
+msgid "じてんしゃ"
+msgstr "Bicycle"
+
+#. ID 31
+#. ID 32
+msgctxt "items.description"
+msgid "「じてんしゃ」にのる。"
+msgstr "Ride a bicycle"
+
+#. ID 33
+#. ID 34
+msgctxt "items.name"
+msgid "ロングヘアー"
+msgstr "Long hair"
+
+#. ID 33
+#. ID 34
+msgctxt "items.description"
+msgid "「ロングヘアー」になる。"
+msgstr "Grow long hair"
+
+#. ID 35
+#. ID 36
+msgctxt "items.name"
+msgid "ウンコヘアー"
+msgstr "Poop hair"
+
+#. ID 35
+#. ID 36
+msgctxt "items.description"
+msgid "「ウンコヘアー」になる。"
+msgstr "I certainly hope it's hair"
+
+#. ID 37
+#. ID 38
+msgctxt "items.name"
+msgid "ブロンド"
+msgstr "Blonde hair"
+
+#. ID 37
+#. ID 38
+msgctxt "items.description"
+msgid "きんいろのロングヘアーになる。"
+msgstr "Grow long, golden hair"
+
+#. ID 39
+#. ID 40
+msgctxt "items.name"
+msgid "△ずきん"
+msgstr "Triangle kerchief"
+
+#. ID 39
+#. ID 40
+msgctxt "items.description"
+msgid "「△ずきん」をつける。"
+msgstr "Wear triangle kerchief"
+
+#. ID 41
+#. ID 42
+msgctxt "items.name"
+msgid "まじょ"
+msgstr "Witch"
+
+#. ID 41
+#. ID 42
+msgctxt "items.description"
+msgid "「まじょ」になる。"
+msgstr "Become a witch"
+
+#. ID 43
+#. ID 44
+msgctxt "items.name"
+msgid "おに"
+msgstr "Demon"
+
+#. ID 43
+#. ID 44
+msgctxt "items.description"
+msgid "「おに」になる。"
+msgstr "Become a demon"
+
+#. ID 45
+#. ID 46
+msgctxt "items.name"
+msgid "ぶよぶよ"
+msgstr "Buyo buyo"
+
+#. ID 45
+#. ID 46
+msgctxt "items.description"
+msgid "からだが「ぶよぶよ」になる。"
+msgstr "Body becomes soft and squishy"
+
+#. ID 47
+#. ID 48
+msgctxt "items.name"
+msgid "しんごう"
+msgstr "Stoplight"
+
+#. ID 47
+#. ID 48
+msgctxt "items.description"
+msgid "「しんごうき」になる。"
+msgstr "Become a stoplight"
+
+#. ID 57
+msgctxt "items.name"
+msgid "ゲームのせつめい"
+msgstr "Instructions"
+
+#. ID 57
+msgctxt "items.description"
+msgid "ゲームのせつめいをもういちどみる。"
+msgstr "See the instructions again"
+
+msgctxt "terms.special_combat"
+msgid "先制攻撃のチャンス！"
+msgstr "battle_headstart"
+
+msgctxt "terms.escape_failure"
+msgid "逃げ切れなかった！"
+msgstr "battle_escape"
+
+msgctxt "terms.victory"
+msgid "戦いに勝った！"
+msgstr "battle_victory"
+
+msgctxt "terms.defeat"
+msgid "負けてしまった・・・"
+msgstr "battle_loss"
+
+msgctxt "terms.exp_received"
+msgid "の経験値を獲得！"
+msgstr "battle_experience"
+
+msgctxt "terms.gold_recieved_a"
+msgid "お金を"
+msgstr "got"
+
+msgctxt "terms.gold_recieved_b"
+msgid "手に入れた！"
+msgstr "money!"
+
+msgctxt "terms.item_recieved"
+msgid "を手に入れた！"
+msgstr "received!"
+
+msgctxt "terms.attacking"
+msgid "の攻撃！"
+msgstr "の攻撃！"
+
+msgctxt "terms.enemy_critical"
+msgid "会心の一撃！！"
+msgstr "会心の一撃！！"
+
+msgctxt "terms.actor_critical"
+msgid "痛恨の一撃！！"
+msgstr "痛恨の一撃！！"
+
+msgctxt "terms.defending"
+msgid "は身を守っている！"
+msgstr "は身を守っている！"
+
+msgctxt "terms.observing"
+msgid "は様子を見ている・・・"
+msgstr "は様子を見ている・・・"
+
+msgctxt "terms.focus"
+msgid "は力をためている・・・"
+msgstr "は力をためている・・・"
+
+msgctxt "terms.autodestruction"
+msgid "は自爆した！"
+msgstr "は自爆した！"
+
+msgctxt "terms.enemy_escape"
+msgid "は逃げてしまった！"
+msgstr "は逃げてしまった！"
+
+msgctxt "terms.enemy_transform"
+msgid "は姿を変えた！"
+msgstr "は姿を変えた！"
+
+msgctxt "terms.enemy_damaged"
+msgid "のダメージを与えた！"
+msgstr "のダメージを与えた！"
+
+msgctxt "terms.enemy_undamaged"
+msgid "にダメージを与えられない！"
+msgstr "にダメージを与えられない！"
+
+msgctxt "terms.actor_damaged"
+msgid "のダメージを受けた！"
+msgstr "のダメージを受けた！"
+
+msgctxt "terms.actor_undamaged"
+msgid "はダメージを受けていない！"
+msgstr "はダメージを受けていない！"
+
+msgctxt "terms.skill_failure_a"
+msgid "には効かなかった！"
+msgstr "には効かなかった！"
+
+msgctxt "terms.skill_failure_b"
+msgid "は平気だった！"
+msgstr "は平気だった！"
+
+msgctxt "terms.skill_failure_c"
+msgid "は眠らなかった！"
+msgstr "は眠らなかった！"
+
+msgctxt "terms.dodge"
+msgid "は攻撃をかわした！"
+msgstr "は攻撃をかわした！"
+
+msgctxt "terms.use_item"
+msgid "を使った！"
+msgstr "を使った！"
+
+msgctxt "terms.hp_recovery"
+msgid "回復した！"
+msgstr "回復した！"
+
+msgctxt "terms.parameter_increase"
+msgid "上がった！"
+msgstr "上がった！"
+
+msgctxt "terms.parameter_decrease"
+msgid "下がった！"
+msgstr "下がった！"
+
+msgctxt "terms.enemy_hp_absorbed"
+msgid "奪った！"
+msgstr "奪った！"
+
+msgctxt "terms.actor_hp_absorbed"
+msgid "奪われた！"
+msgstr "奪われた！"
+
+msgctxt "terms.resistance_increase"
+msgid "に強くなった！"
+msgstr "に強くなった！"
+
+msgctxt "terms.resistance_decrease"
+msgid "に弱くなった！"
+msgstr "に弱くなった！"
+
+msgctxt "terms.level_up"
+msgid "になった！"
+msgstr "level up!"
+
+msgctxt "terms.skill_learned"
+msgid "を覚えた！"
+msgstr "get!"
+
+msgctxt "terms.shop_greeting1"
+msgid "「いらっしゃいませ」"
+msgstr "shopma_business"
+
+msgctxt "terms.shop_regreeting1"
+msgid "「ほかにご用件はございますか？」"
+msgstr "shopma_business2"
+
+msgctxt "terms.shop_buy1"
+msgid "購入する"
+msgstr "shopma_b"
+
+msgctxt "terms.shop_sell1"
+msgid "売却する"
+msgstr "shopma_s"
+
+msgctxt "terms.shop_leave1"
+msgid "やめる"
+msgstr "shopma_e"
+
+msgctxt "terms.shop_buy_select1"
+msgid "「何をお買い上げになりますか？」"
+msgstr "shopma_buy"
+
+msgctxt "terms.shop_buy_number1"
+msgid "「いくつお買い上げになりますか？」"
+msgstr "shopma_buyn"
+
+msgctxt "terms.shop_purchased1"
+msgid "「毎度ありがとうございます」"
+msgstr "shopma_buyc"
+
+msgctxt "terms.shop_sell_select1"
+msgid "「何をお売りになりますか？」"
+msgstr "shopma_sell"
+
+msgctxt "terms.shop_sell_number1"
+msgid "「いくつお売りになりますか？」"
+msgstr "shopma_selln"
+
+msgctxt "terms.shop_sold1"
+msgid "「毎度ありがとうございます」"
+msgstr "shopma_sellc"
+
+msgctxt "terms.shop_greeting2"
+msgid "「いらっしゃい！　今日はどんな用だい？」"
+msgstr "shopmb_business"
+
+msgctxt "terms.shop_regreeting2"
+msgid "「ほかにも用があるかい？」"
+msgstr "shopmb_business2"
+
+msgctxt "terms.shop_buy2"
+msgid "購入する"
+msgstr "shopmb_b"
+
+msgctxt "terms.shop_sell2"
+msgid "売却する"
+msgstr "shopmb_s"
+
+msgctxt "terms.shop_leave2"
+msgid "やめる"
+msgstr "shopmb_e"
+
+msgctxt "terms.shop_buy_select2"
+msgid "「何を買うんだい？」"
+msgstr "shopmb_buy"
+
+msgctxt "terms.shop_buy_number2"
+msgid "「いくつ買うんだい？」"
+msgstr "shopmb_buyn"
+
+msgctxt "terms.shop_purchased2"
+msgid "「ありがとよっ！」"
+msgstr "shopmb_buyc"
+
+msgctxt "terms.shop_sell_select2"
+msgid "「何を売るんだい？」"
+msgstr "shopmb_sell"
+
+msgctxt "terms.shop_sell_number2"
+msgid "「いくつ売るんだい？」"
+msgstr "shopmb_selln"
+
+msgctxt "terms.shop_sold2"
+msgid "「ありがとよっ！」"
+msgstr "shopmb_sellc"
+
+msgctxt "terms.shop_greeting3"
+msgid "「こんにちは。どんなご用ですか？」"
+msgstr "shopmc_business"
+
+msgctxt "terms.shop_regreeting3"
+msgid "「ほかにもご用がありますか？」"
+msgstr "shopmc_business2"
+
+msgctxt "terms.shop_buy3"
+msgid "購入する"
+msgstr "shopmc_b"
+
+msgctxt "terms.shop_sell3"
+msgid "売却する"
+msgstr "shopmc_s"
+
+msgctxt "terms.shop_leave3"
+msgid "やめる"
+msgstr "shopmc_e"
+
+msgctxt "terms.shop_buy_select3"
+msgid "「何を買ってくれますか？」"
+msgstr "shopmc_buy"
+
+msgctxt "terms.shop_buy_number3"
+msgid "「いくつ買ってくれますか？」"
+msgstr "shopmc_buyn"
+
+msgctxt "terms.shop_purchased3"
+msgid "「どうもありがとう」"
+msgstr "shopmc_buyc"
+
+msgctxt "terms.shop_sell_select3"
+msgid "「何を売ってくれますか？」"
+msgstr "shopmc_sell"
+
+msgctxt "terms.shop_sell_number3"
+msgid "「いくつ売ってくれますか？」"
+msgstr "shopmc_selln"
+
+msgctxt "terms.shop_sold3"
+msgid "「どうもありがとう」"
+msgstr "shopmc_sellc"
+
+msgctxt "terms.inn_a_greeting_1"
+msgid "「宿泊料金は"
+msgstr "inna_lodge1"
+
+msgctxt "terms.inn_a_greeting_2"
+msgid "になります。"
+msgstr "inna_lodge2"
+
+msgctxt "terms.inn_a_greeting_3"
+msgid "　お泊まりになりますか？」"
+msgstr "inna_lodge3"
+
+msgctxt "terms.inn_a_accept"
+msgid "泊まる"
+msgstr "lodgey"
+
+msgctxt "terms.inn_a_cancel"
+msgid "泊まらない"
+msgstr "lodgen"
+
+msgctxt "terms.inn_b_greeting_1"
+msgid "「一泊"
+msgstr "innb_lodge1"
+
+msgctxt "terms.inn_b_greeting_2"
+msgid "だが"
+msgstr "innb_lodge2"
+
+msgctxt "terms.inn_b_greeting_3"
+msgid "　泊まっていくかい？」"
+msgstr "innb_lodge3"
+
+msgctxt "terms.inn_b_accept"
+msgid "泊まる"
+msgstr "lodgeby"
+
+msgctxt "terms.inn_b_cancel"
+msgid "泊まらない"
+msgstr "lodgebn"
+
+msgctxt "terms.possessed_items"
+msgid "所持数"
+msgstr "shopparowned"
+
+msgctxt "terms.equipped_items"
+msgid "装備数"
+msgstr "shoppareq"
+
+msgctxt "terms.gold"
+msgid "Ｇ"
+msgstr "\\"
+
+msgctxt "terms.command_attack"
+msgid "攻撃"
+msgstr "攻撃"
+
+msgctxt "terms.command_defend"
+msgid "防御"
+msgstr "防御"
+
+msgctxt "terms.command_item"
+msgid "エフェクト"
+msgstr "Effects"
+
+msgctxt "terms.menu_quit"
+msgid "おわりにする"
+msgstr "Quit"
+
+msgctxt "terms.new_game"
+msgid "はじめて"
+msgstr "Start"
+
+msgctxt "terms.load_game"
+msgid "ゆめにっき"
+msgstr "Diary"
+
+msgctxt "terms.exit_game"
+msgid "おわり"
+msgstr "Quit"
+
+msgctxt "terms.lvl_short"
+msgid "Ｅ"
+msgstr "E"
+
+msgctxt "terms.hp_short"
+msgid "$k"
+msgstr "$k"
+
+msgctxt "terms.save_game_message"
+msgid "【ゆめにっき】をつける"
+msgstr "Choose a page to write"
+
+msgctxt "terms.load_game_message"
+msgid "【ゆめにっき】をよむ"
+msgstr "Choose a page to read"
+
+msgctxt "terms.file"
+msgid "ページ"
+msgstr "Page"
+
+msgctxt "terms.exit_game_message"
+msgid "おわりにしますか？"
+msgstr "End game and return to menu?"
+
+msgctxt "terms.yes"
+msgid "はい"
+msgstr "Yes"
+
+msgctxt "terms.no"
+msgid "いいえ"
+msgstr "No"
+
